@@ -1,0 +1,22 @@
+C:\Users\05191\source\repos\Spammer\Spammer\bin\Debug\Spammer.exe.config
+C:\Users\05191\source\repos\Spammer\Spammer\bin\Debug\Spammer.exe
+C:\Users\05191\source\repos\Spammer\Spammer\bin\Debug\Spammer.pdb
+C:\Users\05191\source\repos\Spammer\Spammer\obj\Debug\Spammer.csprojAssemblyReference.cache
+C:\Users\05191\source\repos\Spammer\Spammer\obj\Debug\Spammer.Form1.resources
+C:\Users\05191\source\repos\Spammer\Spammer\obj\Debug\Spammer.Properties.Resources.resources
+C:\Users\05191\source\repos\Spammer\Spammer\obj\Debug\Spammer.csproj.GenerateResource.cache
+C:\Users\05191\source\repos\Spammer\Spammer\obj\Debug\Spammer.csproj.CoreCompileInputs.cache
+C:\Users\05191\source\repos\Spammer\Spammer\obj\Debug\Spammer.exe
+C:\Users\05191\source\repos\Spammer\Spammer\obj\Debug\Spammer.pdb
+C:\Users\05191\source\repos\Spammer\Spammer\obj\Debug\Spammer.Settings.resources
+C:\Users\05191\source\repos\Spammer Tool Beta\Spammer\bin\Debug\Spammer.exe.config
+C:\Users\05191\source\repos\Spammer Tool Beta\Spammer\bin\Debug\Spammer.exe
+C:\Users\05191\source\repos\Spammer Tool Beta\Spammer\bin\Debug\Spammer.pdb
+C:\Users\05191\source\repos\Spammer Tool Beta\Spammer\obj\Debug\Spammer.csprojAssemblyReference.cache
+C:\Users\05191\source\repos\Spammer Tool Beta\Spammer\obj\Debug\Spammer.Form1.resources
+C:\Users\05191\source\repos\Spammer Tool Beta\Spammer\obj\Debug\Spammer.Properties.Resources.resources
+C:\Users\05191\source\repos\Spammer Tool Beta\Spammer\obj\Debug\Spammer.Settings.resources
+C:\Users\05191\source\repos\Spammer Tool Beta\Spammer\obj\Debug\Spammer.csproj.GenerateResource.cache
+C:\Users\05191\source\repos\Spammer Tool Beta\Spammer\obj\Debug\Spammer.csproj.CoreCompileInputs.cache
+C:\Users\05191\source\repos\Spammer Tool Beta\Spammer\obj\Debug\Spammer.exe
+C:\Users\05191\source\repos\Spammer Tool Beta\Spammer\obj\Debug\Spammer.pdb
